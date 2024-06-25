@@ -30,7 +30,7 @@ Learn how to build an engaging and interactive live streaming chat app with Next
 
 - [Stream](https://getstream.io) - API platform to build social networks, activity feeds, activity streams and chat apps.
 
-- [Verecel](https://vercel.io) - A cloud platform for deploying and scaling web applications.
+- [Vercel](https://vercel.com) - A cloud platform for deploying and scaling web applications.
 
 ## Author
 
